@@ -1,1 +1,1 @@
-my 2nd readme
+my 2nd readme in the project
